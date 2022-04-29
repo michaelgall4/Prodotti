@@ -1,0 +1,3 @@
+ProdottoIdO, NomeProdottoO, QuantitaO
+34, Fagioli, 10
+666, Peperoncini, 3
